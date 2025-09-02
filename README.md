@@ -7,3 +7,4 @@
 | Push | Opdater source | 
 | Pull | Opdater lokal maskine |
 
+![alt text](githubbillede.PNG)
