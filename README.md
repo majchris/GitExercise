@@ -14,3 +14,5 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
+Jeg håber, at jeg kan huske det hele :joy:
+~~Overhovedet ikke nervøs~~
