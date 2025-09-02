@@ -7,3 +7,10 @@
 Jeg syntes vi **skal** få htx til at skrive en historie som *øvelse*, måske endda med markdown.
 
 Ja, god idé. Lad os sætte dem i gang med ==det==
+
+
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
