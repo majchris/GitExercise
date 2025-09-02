@@ -15,3 +15,5 @@ Formålet med værktøjet er at forstå, hvordan større teams kan samarbejde i 
 
 Hvad er forskellen på pull og clone?
 Man puller når git repository er allerede inialiseret og man vil hente den nyeste opdatering. Man Clone for at initialisere den lokale maskine.
+
+Vi arbejder med Markdown-filer (.md) til et Git-repository, hvor vi skal udføre **commit**, **push** og **pull**.
